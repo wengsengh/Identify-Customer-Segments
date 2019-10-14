@@ -6,7 +6,7 @@ The goal of this project is using unsupervised learning techniques of Principal 
 
 The data is provided by Bertelsmann partners AZ Direct and Arvato Financial Solution. There are two dataset provided first was demographic data (891,211 individuals)for the general population of Germany and the second dataset was demographic data for customers of a mail-order company (191,652 individuals). Both dataset consists of 85 different features.
 
-The summary of this project can be found at my medium.
+The summary of this project can be found at my [medium](https://medium.com/analytics-vidhya/airbnb-in-singapore-descriptive-and-predictive-analytics-58802975e181) blog post.
 
 # Results
 The mail-order is popular with individuals who:
